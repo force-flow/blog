@@ -1,0 +1,19 @@
+body{
+
+}
+
+img{
+	height: 300px;
+	width: 400px
+}
+
+.box{
+	height: 150px;
+	width: 700px;
+	border: 1px solid gray;
+	margin-bottom: 30px;
+}
+
+.box3{
+	width: 700px;
+}
